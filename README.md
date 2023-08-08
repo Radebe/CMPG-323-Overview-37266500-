@@ -6,3 +6,6 @@ CMPG 323 has the following projects for the semester:
 -  Project 4 - Testing and RPA
 -  Project 5 - Reporting and Monitoring
 
+Burndown chart for project 1 submission milestone:
+
+![Screenshot (306)](
