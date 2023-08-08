@@ -7,6 +7,7 @@ CMPG 323 has the following projects for the semester:
 -  Project 5 - Reporting and Monitoring
 
 The .gitignore file will be used to tell git which files and directory are to be ignored.
+
 One repository will be submitted at the end of semester.
 
 Burndown chart for project 1 submission milestone:
