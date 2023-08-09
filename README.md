@@ -21,7 +21,11 @@ Branching strategy:
 
 Description of the branhcing strategy:
 1. At the beginning, only the developer branch will created from the master branch.
+   
 2. The hotfix branch will be added for the debugging the code and quick enhancement purposes.
+   
 3. Changes made in the hotfix have to be commited to both developer and master branch.
+   
 4. Release branch will be used for the final review before submitting the project.
+   
 5. Changes made in the release branch also have to be commited to the master and developer branches.
