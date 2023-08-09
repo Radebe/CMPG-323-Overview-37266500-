@@ -13,6 +13,7 @@ One repository will be submitted at the end of semester.
 Burndown chart for project 1 submission milestone:
 ![Screenshot (306)](https://github.com/Radebe/CMPG-323-Overview-37266500-/assets/38373748/874c26aa-3ca1-4235-907b-784743d0bce3)
 
+Burndown charts for the remaining tasks will be added after each milestone has been completed.
 
 Branching strategy:
 ![Screenshot (311)](https://github.com/Radebe/CMPG-323-Overview-37266500-/assets/38373748/b4aacc9f-f377-4d4a-b1f9-167551604f85)
