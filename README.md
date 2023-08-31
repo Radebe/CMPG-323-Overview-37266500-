@@ -29,3 +29,6 @@ Description of the branhcing strategy:
 4. Release branch will be used for the final review before submitting the project.
    
 5. Changes made in the release branch also have to be commited to the master and developer branches.
+
+   URL to the Azure web service:
+   https://37266500-cmpg323project.azurewebsites.net/swagger/index.html
