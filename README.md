@@ -30,5 +30,3 @@ Description of the branhcing strategy:
    
 5. Changes made in the release branch also have to be commited to the master and developer branches.
 
-   URL to the Azure web service:
-   https://37266500-cmpg323project.azurewebsites.net/swagger/index.html
